@@ -60,3 +60,5 @@ if l.hasloop():
     print('It has a loop')
 else:
     print("It doesn't has a loop")
+    
+ //ok //
